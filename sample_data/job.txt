@@ -1,0 +1,34 @@
+Junior Data Analyst — Northgate Retail Group, Leeds (Hybrid)
+
+Northgate Retail Group is one of the UK's fastest-growing value retailers,
+with 240 stores nationwide. We are looking for a Junior Data Analyst to join
+our commercial analytics team and turn sales data into decisions that reach
+the shop floor.
+
+Key responsibilities
+- Analyse weekly sales data across 240 stores and produce clear reports for
+  buyers and store managers.
+- Build and maintain dashboards in Power BI and Tableau to track sales,
+  stock availability and promotions.
+- Write SQL queries to extract data from our data warehouse and clean it
+  with Python and pandas.
+- Run A/B testing on promotions and present findings to stakeholders.
+- Support forecasting and budgeting for the trading team.
+- Present insights in plain English to non-technical colleagues.
+
+Essential requirements
+- A degree in a numerate subject (mathematics, statistics, economics or similar).
+- Strong Excel skills, including pivot tables and VLOOKUP.
+- Experience with SQL and Python for data analysis.
+- Excellent communication skills and attention to detail.
+- A problem-solving mindset and the ability to work in a team under deadlines.
+
+Desirable skills
+- Experience with Tableau or Power BI dashboards.
+- Knowledge of Google Analytics and statistics.
+- Understanding of data visualisation best practice.
+- Experience with data warehousing or ETL pipelines.
+- Time management and adaptability in a fast-paced retail environment.
+
+We offer a salary of £28,000–£32,000, 25 days' holiday, hybrid working
+(3 days in Leeds, 2 from home) and a clear path to Data Analyst within 18 months.
