@@ -40,10 +40,14 @@ source .venv/bin/activate        # Windows: .venv\Scripts\activate
 pip install -r requirements.txt
 python -m spacy download en_core_web_sm
 
-python -m ats_match --resume sample_data/resume.pdf \
+python -m ats_match --resume sample_data/resume.txt \
                     --job sample_data/job.txt \
                     --out report/
 ```
+
+> The sample resume ships as plain text (`sample_data/resume.txt`) so it
+> works straight from a clone. PDF and DOCX work too — regenerate the
+> sample in both formats with `python scripts/make_sample_resume.py`.
 
 Open `report/report.html` in any browser. Or run the web app:
 
@@ -74,7 +78,7 @@ never counted twice.
 
 Sample resume vs the sample Junior Data Analyst job (`sample_data/`):
 
-<!-- SAMPLE-RESULT: verified 2026-11-20, CLI run on sample_data/resume.pdf vs job.txt -->
+<!-- SAMPLE-RESULT: verified 2026-11-20, CLI run on sample_data/resume.txt vs job.txt (57/100; the PDF/DOCX sample scores the same) -->
 
 | | Before (original resume) |
 |---|---|
@@ -156,15 +160,15 @@ from them. No real person's resume is anywhere in this repo.
 python -m compileall ats_match app.py
 
 # CLI end-to-end on the sample data
-python -m ats_match --resume sample_data/resume.pdf --job sample_data/job.txt --out sample_output/
+python -m ats_match --resume sample_data/resume.txt --job sample_data/job.txt --out sample_output/
 
 # error paths (each must exit 1 with a clear message, no traceback)
 python -m ats_match --resume missing.pdf --job sample_data/job.txt
-python -m ats_match --resume sample_data/resume.pdf --job empty.txt
+python -m ats_match --resume sample_data/resume.txt --job empty.txt
 
 # determinism: two runs must produce identical reports
-python -m ats_match --resume sample_data/resume.pdf --job sample_data/job.txt --out /tmp/run1
-python -m ats_match --resume sample_data/resume.pdf --job sample_data/job.txt --out /tmp/run2
+python -m ats_match --resume sample_data/resume.txt --job sample_data/job.txt --out /tmp/run1
+python -m ats_match --resume sample_data/resume.txt --job sample_data/job.txt --out /tmp/run2
 diff /tmp/run1/report.md /tmp/run2/report.md && diff /tmp/run1/report.html /tmp/run2/report.html
 ```
 

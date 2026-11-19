@@ -74,7 +74,7 @@ cd local-ats-resume-matcher
 python -m venv .venv &amp;&amp; source .venv/bin/activate
 pip install -r requirements.txt
 python -m spacy download en_core_web_sm
-python -m ats_match --resume sample_data/resume.pdf --job sample_data/job.txt --out report/</pre>
+python -m ats_match --resume sample_data/resume.txt --job sample_data/job.txt --out report/</pre>
 <p>Or run the web app: <code>streamlit run app.py</code></p>
 <p class="muted">Free forever. No account, no upload, no API key — 100% local.
 Paid tools like Jobscan charge $49.95/month for the same core scoring.</p>

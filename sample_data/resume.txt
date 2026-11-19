@@ -1,0 +1,26 @@
+Alex Carter
+alex.carter@example.com | 07700 900123 | Leeds, UK | linkedin.com/in/alexcarter
+Summary
+Data analyst with 2 years of experience turning retail sales data into clear, actionable reports for
+buyers and store managers. Skilled in Python, SQL and Excel, with a strong focus on
+communication, teamwork and problem solving. Looking for a junior data analyst role where I
+can grow my dashboard and reporting skills.
+Experience
+Junior Data Analyst — BrightMart Supermarkets, Leeds | 2023 – Present
+• Analyse weekly sales data across 60 stores and produce reports for buyers.
+• Built dashboards in Power BI to track sales and stock availability, used daily by 12 buyers.
+• Write SQL queries to extract data from the company data warehouse.
+• Increased reporting speed by 30% by automating Excel reports with Python.
+• Cut manual reporting time by 6 hours a week by automating repetitive checks with Python and
+pandas.
+• Cleaned and validated sales data each week, resolving data quality issues with store teams.
+• Presented findings to store managers and improved promotion planning.
+Data Analyst Intern — City Council Analytics Team, Leeds | 2022 – 2023
+• Cleaned survey data with Python and pandas for a public transport study.
+• Produced charts and summaries for council officers.
+• Managed a survey dataset of 4,000 responses and delivered the final report 2 weeks early.
+Education
+BSc Mathematics — University of Leeds, 2019 – 2022
+Skills
+Python, SQL, Excel, Power BI, pandas, data analysis, communication, teamwork, problem
+solving, time management
