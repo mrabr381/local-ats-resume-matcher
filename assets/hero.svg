@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-label="Local ATS Resume Matcher — Check your CV against a real job — free, private, nothing uploaded.">
+  <rect width="1200" height="360" fill="#111827"/>
+  <rect x="24" y="24" width="1152" height="312" rx="16" fill="none" stroke="#f59e0b" stroke-opacity="0.35" stroke-width="2"/>
+  <text x="60" y="165" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="62" font-weight="700" fill="#ffffff">Local ATS Resume Matcher</text>
+  <text x="60" y="225" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="26" fill="#f59e0b">Check your CV against a real job — free, private, nothing uploaded.</text>
+</svg>

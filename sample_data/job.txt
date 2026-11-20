@@ -1,34 +1,69 @@
-Junior Data Analyst — Northgate Retail Group, Leeds (Hybrid)
+Junior/Intermediate Data Analyst — UK community healthcare provider (Remote/Hybrid)
 
-Northgate Retail Group is one of the UK's fastest-growing value retailers,
-with 240 stores nationwide. We are looking for a Junior Data Analyst to join
-our commercial analytics team and turn sales data into decisions that reach
-the shop floor.
+A UK community healthcare provider is seeking a Junior/Intermediate Data
+Analyst to support its growing neurodevelopmental services. This role is
+ideal for someone with hands-on experience in managing, interpreting, and
+presenting data related to ADHD and Autism referrals, assessments,
+treatment outcomes, and waiting list management. The analyst will play a
+key part in supporting both clinical operations and financial reporting by
+ensuring all billable activity is captured accurately and efficiently.
+
+Hours: 37.5 hours per week. Location: remote/hybrid after a 6-month
+probation period, with travel to the head office. Salary: £30,000–£35,000
+per annum, dependent on experience. Reporting to: Head of Finance.
 
 Key responsibilities
-- Analyse weekly sales data across 240 stores and produce clear reports for
-  buyers and store managers.
-- Build and maintain dashboards in Power BI and Tableau to track sales,
-  stock availability and promotions.
-- Write SQL queries to extract data from our data warehouse and clean it
-  with Python and pandas.
-- Run A/B testing on promotions and present findings to stakeholders.
-- Support forecasting and budgeting for the trading team.
-- Present insights in plain English to non-technical colleagues.
+- Compile, clean, and analyse service data (referrals, assessments,
+  treatments, waiting times) across ADHD and Autism pathways.
+- Identify trends, risks, and opportunities to improve operational
+  performance and patient flow.
+- Produce clear, visually engaging reports for internal teams, senior
+  management, and commissioners.
+- Support service leads with demand and capacity modelling, forecasting,
+  and monthly activity reporting, producing reports by contract, region
+  and KPI requirement.
+- Work with the finance team to ensure all activity that can be billed is
+  captured, coded correctly, and submitted in a timely manner.
+- Assist with reporting and contractual data returns, ensuring
+  completeness and accuracy.
+- Contribute to the development of dashboards or tools that support
+  decision-making and service monitoring.
+- Collaborate with clinical and administrative teams to resolve data gaps
+  and discrepancies.
+- Establish a reporting cycle and support quarterly quality reports.
+- Run national data submissions and ensure accuracy and data integrity.
+- Track medication issues and drug trends, preparing issuing reports for
+  each contract and region.
+- Track referrals, assessments, assessment diagnosis conversion rates and
+  titration conversion rates, monitoring the number of interactions by
+  clinician and ascertaining trends and average rates.
+- Forecast annual review delivery and activity by service using monthly
+  referral trends.
+- Establish a telephony reporting regime to support continuous
+  improvement, forecast required staffing levels, and report telephony
+  KPIs daily, weekly and monthly.
 
-Essential requirements
-- A degree in a numerate subject (mathematics, statistics, economics or similar).
-- Strong Excel skills, including pivot tables and VLOOKUP.
-- Experience with SQL and Python for data analysis.
-- Excellent communication skills and attention to detail.
-- A problem-solving mindset and the ability to work in a team under deadlines.
+Essential skills and experience
+- Previous experience working with ADHD and/or Autism service data (for
+  example referral tracking, titration logs, shared care status).
+- Good working knowledge of Excel, Google Sheets, or similar data tools.
+- Ability to present findings clearly and concisely, including charts and
+  narrative summaries.
+- Understanding of NHS pathways and patient choice processes.
+- Comfortable handling sensitive data with discretion and in line with
+  governance standards.
 
-Desirable skills
-- Experience with Tableau or Power BI dashboards.
-- Knowledge of Google Analytics and statistics.
-- Understanding of data visualisation best practice.
-- Experience with data warehousing or ETL pipelines.
-- Time management and adaptability in a fast-paced retail environment.
+Desirable (but not essential)
+- Experience working for online psychiatry services, or similar providers.
+- Familiarity with EMIS, e-RS, or other NHS systems.
+- Experience working alongside finance or billing teams in a healthcare
+  setting.
+- Experience creating PowerPoint slides or written summaries for
+  stakeholders.
 
-We offer a salary of £28,000–£32,000, 25 days' holiday, hybrid working
-(3 days in Leeds, 2 from home) and a clear path to Data Analyst within 18 months.
+What we offer
+- Supportive, flexible working environment.
+- Opportunities to develop and grow with the role.
+- Direct involvement in shaping services that make a real difference.
+- A mission-driven organisation focused on improving access and outcomes
+  in neurodiversity.
