@@ -22,6 +22,10 @@ st.set_page_config(
     layout="centered",
 )
 
+st.sidebar.markdown("---")
+st.sidebar.link_button("⭐ Star on GitHub", "https://github.com/mrabr381/local-ats-resume-matcher")
+st.sidebar.link_button("☕ Buy me a coffee", "https://www.buymeacoffee.com/muhammadabubakar")
+
 st.title("📄 Local ATS Resume Matcher")
 st.markdown(
     "Free, local, privacy-first resume scoring. Paste a job description, "

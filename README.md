@@ -1,6 +1,7 @@
 # Local ATS Resume Matcher
 
 ![Local ATS Resume Matcher — check your CV against a real job](assets/hero.svg)
+[![GitHub stars](https://img.shields.io/github/stars/mrabr381/local-ats-resume-matcher?style=social)](https://github.com/mrabr381/local-ats-resume-matcher) [![Buy me a coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/muhammadabubakar)
 
 [![CI](https://github.com/mrabr381/local-ats-resume-matcher/actions/workflows/ci.yml/badge.svg)](https://github.com/mrabr381/local-ats-resume-matcher/actions/workflows/ci.yml)
 [![Python 3.10+](https://img.shields.io/badge/python-3.10%2B-blue.svg)](https://www.python.org/)
@@ -13,9 +14,21 @@ Paste a job description, upload your resume (PDF / DOCX / TXT), and get a
 match score out of 100, matched vs missing keywords, and plain-language
 fixes — without your resume ever leaving your machine.
 
-> **Live demo:** [mrabr381.github.io/local-ats-resume-matcher](https://mrabr381.github.io/local-ats-resume-matcher/)
-> (verified live 2026-11-20) — a real sample report. It is a static
-> report; to score your own resume, run it locally below.
+> **Live demo:** [mrabr381.github.io/local-ats-resume-matcher/demo/](https://mrabr381.github.io/local-ats-resume-matcher/demo/)
+> — try the scorer in your browser: paste your CV and a job description
+> and get your score instantly. It is pre-filled with the sample resume
+> and the real NHS job description, so it works in one click, with nothing
+> uploaded. (The previous static sample report is still at
+> [mrabr381.github.io/local-ats-resume-matcher](https://mrabr381.github.io/local-ats-resume-matcher/).)
+
+![Live demo — sample report: a fictional resume scored 36/100 against a real NHS job posting, with matched and missing keywords](assets/screenshot.png)
+*Screenshot of the live sample report — a fictional Junior Data Analyst resume scored 36/100 against a real anonymised NHS Jobs posting.*
+
+![Demo in use — clicking "Score my resume" on the pre-filled sample gives 36/100, with the score breakdown, matched/missing keywords and prioritised fixes](demo/screenshot.png)
+*The live demo in use — the pre-filled sample scores **36/100**, with the breakdown (keyword coverage 2.5/50, skills 4/20, experience & education 15/15, formatting 15/15), matched/missing keywords and prioritised fixes.*
+
+![Demo in motion — the sample scores 36/100 as soon as "Score my resume" is clicked](demo/demo.gif)
+*The demo in motion — one click on "Score my resume" and the 36/100 result appears.*
 
 ## Quickstart
 
